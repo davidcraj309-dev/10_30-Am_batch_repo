@@ -1,3 +1,7 @@
+
+#--------expense tracker Project------
+
+
 name = input("Enter your name: ")
 
 food = int(input("Enter Food expense: "))
