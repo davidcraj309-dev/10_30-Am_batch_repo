@@ -1,0 +1,3 @@
+Adding a newline from Append
+i love GenAi Enginerring
+i love python
