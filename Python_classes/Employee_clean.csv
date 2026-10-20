@@ -1,0 +1,11 @@
+EmployeeID,Name,Age,Department,Salary,Experience,City,Performance
+1001,Vijay,33.0,Finance,48589.0,6.0,Pune,Average
+1002,Sneha,23.0,Finance,73484.0,11.0,Pune,Excellent
+1003,Meena,22.0,HR,5000.0,12.0,Mumbai,Average
+1004,Karthik,37.0,Marketing,66212.0,5.0,Bangalore,Excellent
+1005,Vijay,44.0,Sales,73525.0,1.0,Chennai,Excellent
+1006,Anjali,44.0,IT,77202.0,,Mumbai,Good
+1007,None,26.0,None,5000.0,5.0,Hyderabad,Good
+1008,Vijay,24.0,HR,63828.0,12.0,Mumbai,Average
+1009,Meena,33.0,HR,48711.0,,Mumbai,Good
+1010,Karthik,29.0,Sales,33420.0,12.0,Bangalore,Average

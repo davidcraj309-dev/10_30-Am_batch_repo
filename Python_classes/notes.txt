@@ -1,0 +1,4 @@
+Hello Friends!
+welcome to python file Handling!
+This is Third Line!
+my fourth linemy fourth line

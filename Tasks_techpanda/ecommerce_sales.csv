@@ -1,0 +1,10 @@
+
+Order_ID,Customer,City,Product,Quantity,Price,Payment_Status
+1001,Arun,Chennai,Laptop,1,55000,Paid
+1002,Priya,Bangalore,Mobile,2,20000,Paid
+1003,David,Hyderabad,Headphones,3,2000,Pending
+1004,Meena,Chennai,Tablet,1,18000,Paid
+1005,Ravi,Mumbai,Keyboard,2,1500,Pending
+1006,Sneha,Bangalore,Monitor,1,12000,Paid
+1007,Kumar,Chennai,Mobile,1,22000,Paid
+1008,Divya,Hyderabad,Laptop,1,60000,Pending

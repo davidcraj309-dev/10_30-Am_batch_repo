@@ -1,0 +1,121 @@
+Date,Product,Category,Region,Quantity,Revenue
+2026-01-01,Notebook Set,Stationery,Hyderabad,2,492
+2026-01-02,USB-C Hub,Accessories,Bengaluru,2,3252
+2026-01-06,Monitor Stand,Accessories,Hyderabad,2,2420
+2026-01-09,Desk Lamp,Furniture,Bengaluru,5,4375
+2026-01-11,Office Chair,Furniture,Coimbatore,1,7798
+2026-01-14,USB-C Hub,Accessories,Mumbai,3,4866
+2026-01-14,Water Bottle,Accessories,Bengaluru,1,494
+2026-01-15,Mechanical Keyboard,Electronics,Bengaluru,3,10689
+2026-01-17,Mechanical Keyboard,Electronics,Hyderabad,3,10488
+2026-01-18,Water Bottle,Accessories,Coimbatore,5,2450
+2026-01-18,Webcam HD,Electronics,Chennai,3,4086
+2026-01-19,Webcam HD,Electronics,Mumbai,5,6820
+2026-01-20,Desk Organizer,Stationery,Chennai,5,1900
+2026-01-21,Bluetooth Earbuds,Electronics,Chennai,2,4940
+2026-01-26,USB-C Hub,Accessories,Hyderabad,2,3400
+2026-01-28,Desk Organizer,Stationery,Hyderabad,2,780
+2026-01-29,Desk Lamp,Furniture,Coimbatore,2,1718
+2026-01-29,Bluetooth Earbuds,Electronics,Chennai,4,10092
+2026-01-30,Office Chair,Furniture,Chennai,5,39230
+2026-02-01,Desk Organizer,Stationery,Coimbatore,5,1955
+2026-02-03,Water Bottle,Accessories,Coimbatore,4,1960
+2026-02-03,Desk Lamp,Furniture,Bengaluru,2,1774
+2026-02-05,Notebook Set,Stationery,Mumbai,1,255
+2026-02-05,Desk Organizer,Stationery,Bengaluru,5,1915
+2026-02-07,Water Bottle,Accessories,Bengaluru,1,513
+2026-02-07,Webcam HD,Electronics,Bengaluru,2,2724
+2026-02-09,Desk Organizer,Stationery,Chennai,1,396
+2026-02-09,Desk Lamp,Furniture,Chennai,5,4700
+2026-02-10,Wireless Mouse,Electronics,Hyderabad,3,2424
+2026-02-12,Office Chair,Furniture,Hyderabad,5,37205
+2026-02-13,Water Bottle,Accessories,Bengaluru,3,1500
+2026-02-17,USB-C Hub,Accessories,Hyderabad,1,1729
+2026-02-19,Backpack,Accessories,Mumbai,2,2628
+2026-02-22,Water Bottle,Accessories,Coimbatore,2,974
+2026-02-23,Water Bottle,Accessories,Chennai,1,492
+2026-02-23,Backpack,Accessories,Hyderabad,5,6595
+2026-02-24,Notebook Set,Stationery,Chennai,3,738
+2026-02-25,Webcam HD,Electronics,Hyderabad,5,6210
+2026-02-26,Mechanical Keyboard,Electronics,Mumbai,3,10587
+2026-02-26,Bluetooth Earbuds,Electronics,Hyderabad,4,9548
+2026-02-28,Mechanical Keyboard,Electronics,Bengaluru,2,7124
+2026-03-01,USB-C Hub,Accessories,Mumbai,3,5073
+2026-03-02,Bluetooth Earbuds,Electronics,Mumbai,4,9976
+2026-03-02,Office Chair,Furniture,Coimbatore,3,23382
+2026-03-02,Water Bottle,Accessories,Coimbatore,2,1028
+2026-03-02,Backpack,Accessories,Bengaluru,5,6330
+2026-03-02,Bluetooth Earbuds,Electronics,Chennai,4,9520
+2026-03-03,Office Chair,Furniture,Mumbai,1,7659
+2026-03-05,Desk Organizer,Stationery,Hyderabad,5,1950
+2026-03-05,USB-C Hub,Accessories,Mumbai,2,3500
+2026-03-05,Water Bottle,Accessories,Coimbatore,5,2490
+2026-03-05,USB-C Hub,Accessories,Mumbai,5,8155
+2026-03-09,Notebook Set,Stationery,Mumbai,3,777
+2026-03-09,Webcam HD,Electronics,Bengaluru,5,6450
+2026-03-10,Desk Organizer,Stationery,Bengaluru,5,2020
+2026-03-11,Water Bottle,Accessories,Hyderabad,2,1016
+2026-03-13,USB-C Hub,Accessories,Coimbatore,3,5169
+2026-03-18,Backpack,Accessories,Mumbai,5,6655
+2026-03-19,Backpack,Accessories,Hyderabad,1,1274
+2026-03-22,Webcam HD,Electronics,Bengaluru,5,6480
+2026-03-22,Backpack,Accessories,Hyderabad,5,6245
+2026-03-26,Notebook Set,Stationery,Mumbai,4,952
+2026-03-27,Backpack,Accessories,Chennai,3,3765
+2026-03-27,Bluetooth Earbuds,Electronics,Coimbatore,2,5118
+2026-03-28,USB-C Hub,Accessories,Bengaluru,4,6520
+2026-03-28,USB-C Hub,Accessories,Chennai,2,3292
+2026-03-29,Office Chair,Furniture,Chennai,2,15684
+2026-03-30,Monitor Stand,Accessories,Coimbatore,1,1227
+2026-04-01,Backpack,Accessories,Mumbai,4,5384
+2026-04-04,Bluetooth Earbuds,Electronics,Coimbatore,3,7278
+2026-04-05,Monitor Stand,Accessories,Hyderabad,2,2382
+2026-04-09,Backpack,Accessories,Hyderabad,4,5212
+2026-04-10,Office Chair,Furniture,Mumbai,3,22323
+2026-04-13,Water Bottle,Accessories,Hyderabad,3,1563
+2026-04-13,Webcam HD,Electronics,Chennai,4,4936
+2026-04-15,Mechanical Keyboard,Electronics,Bengaluru,1,3656
+2026-04-15,Desk Lamp,Furniture,Mumbai,3,2712
+2026-04-18,Backpack,Accessories,Hyderabad,1,1345
+2026-04-19,Webcam HD,Electronics,Bengaluru,1,1262
+2026-04-24,Monitor Stand,Accessories,Hyderabad,4,4956
+2026-04-25,Bluetooth Earbuds,Electronics,Mumbai,2,4888
+2026-04-26,USB-C Hub,Accessories,Chennai,2,3250
+2026-04-27,Webcam HD,Electronics,Coimbatore,5,6665
+2026-04-30,Wireless Mouse,Electronics,Mumbai,2,1600
+2026-05-08,Backpack,Accessories,Mumbai,2,2536
+2026-05-10,Monitor Stand,Accessories,Bengaluru,5,5815
+2026-05-10,USB-C Hub,Accessories,Coimbatore,5,8590
+2026-05-16,Bluetooth Earbuds,Electronics,Bengaluru,5,11970
+2026-05-16,Webcam HD,Electronics,Hyderabad,3,3894
+2026-05-17,Desk Organizer,Stationery,Chennai,2,794
+2026-05-17,Bluetooth Earbuds,Electronics,Chennai,4,10444
+2026-05-18,USB-C Hub,Accessories,Mumbai,1,1708
+2026-05-21,Wireless Mouse,Electronics,Chennai,4,3180
+2026-05-22,Desk Organizer,Stationery,Mumbai,5,1895
+2026-05-22,Webcam HD,Electronics,Bengaluru,5,6660
+2026-05-23,Water Bottle,Accessories,Mumbai,2,968
+2026-05-24,Backpack,Accessories,Hyderabad,2,2708
+2026-05-26,USB-C Hub,Accessories,Bengaluru,4,7012
+2026-05-27,Monitor Stand,Accessories,Mumbai,2,2466
+2026-05-28,Mechanical Keyboard,Electronics,Coimbatore,1,3674
+2026-05-28,Backpack,Accessories,Mumbai,1,1357
+2026-05-28,Mechanical Keyboard,Electronics,Mumbai,4,14252
+2026-05-30,Backpack,Accessories,Hyderabad,4,5124
+2026-05-30,Monitor Stand,Accessories,Hyderabad,3,3753
+2026-05-31,Office Chair,Furniture,Bengaluru,2,15296
+2026-06-02,Webcam HD,Electronics,Hyderabad,1,1289
+2026-06-04,Mechanical Keyboard,Electronics,Coimbatore,2,7332
+2026-06-06,USB-C Hub,Accessories,Mumbai,4,7060
+2026-06-10,Monitor Stand,Accessories,Coimbatore,5,5810
+2026-06-12,Monitor Stand,Accessories,Coimbatore,1,1237
+2026-06-13,USB-C Hub,Accessories,Bengaluru,3,4968
+2026-06-14,Desk Lamp,Furniture,Bengaluru,3,2679
+2026-06-16,Notebook Set,Stationery,Bengaluru,1,260
+2026-06-16,Desk Organizer,Stationery,Hyderabad,4,1552
+2026-06-17,Notebook Set,Stationery,Bengaluru,5,1220
+2026-06-19,USB-C Hub,Accessories,Chennai,3,4902
+2026-06-20,Notebook Set,Stationery,Hyderabad,5,1220
+2026-06-21,Wireless Mouse,Electronics,Chennai,5,3850
+2026-06-21,Water Bottle,Accessories,Coimbatore,4,2076
+2026-06-29,USB-C Hub,Accessories,Mumbai,1,1760
